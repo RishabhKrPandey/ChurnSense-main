@@ -804,7 +804,7 @@ streamlit run app/app_standalone.py
 
 # Author
 
-**Aashutosh Pathak**
+**Rishabh Kumar Pandey**
 
 B.Tech Chemical Engineering  
 Motilal Nehru National Institute of Technology Allahabad
