@@ -24,7 +24,7 @@ app = FastAPI(
 BASE_DIR = Path(__file__).resolve().parent
 ARTIFACTS_DIR = BASE_DIR / "artifacts"
 
-model_path = ARTIFACTS_DIR / "final_random_forest_churn_model.pkl"
+model_path = ARTIFACTS_DIR / "final_model.pkl"
 columns_path = ARTIFACTS_DIR / "model_columns.json"
 config_path = ARTIFACTS_DIR / "model_config.json"
 
